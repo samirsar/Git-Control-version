@@ -1,0 +1,6 @@
+what is git?
+git is basically version control system hai
+it is a ledger of save of history of file 
+command:-- git config --global user.name "Samir Kumar"
+command:-- git config --global user.email "samirsaraidangari@gmail.com"
+command:-- git config --global --edit
