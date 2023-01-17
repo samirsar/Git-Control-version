@@ -14,3 +14,4 @@ commit-->git commit -m "first commit"--> m for message(meaning full)
 
 
 git log-->kitne commit  previous
+stating area --adding karne per aati hai
