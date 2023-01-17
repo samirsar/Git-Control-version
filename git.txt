@@ -4,3 +4,13 @@ it is a ledger of save of history of file
 command:-- git config --global user.name "Samir Kumar"
 command:-- git config --global user.email "samirsaraidangari@gmail.com"
 command:-- git config --global --edit
+
+git init--> initialiazation of folder or repo
+git status--> telling the changes in repo
+git add--> file track ho jaati hai(green)(staging area)
+untrack-->red
+
+commit-->git commit -m "first commit"--> m for message(meaning full)
+
+
+git log-->kitne commit  previous
