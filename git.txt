@@ -15,3 +15,6 @@ commit-->git commit -m "first commit"--> m for message(meaning full)
 
 git log-->kitne commit  previous
 stating area --adding karne per aati hai
+
+git checkout 09c83d8678765975e6e9a77329b440ad22b65870 is commit per pahuch dega
+git checkout master usi jagah wapas laa dega
