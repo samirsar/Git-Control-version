@@ -27,3 +27,4 @@ naya branch command--> git branch new_branch
 
 git checkout -b <branch name>--> isse ek new_branch bhi ban jaayegi aur 
     checkout ho jaayega
+if we want to merge two branch-->git merge samir/feature
