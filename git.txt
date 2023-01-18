@@ -24,3 +24,6 @@ branch----> isme ek master branch hoti hai us master branch se jitni chaahe bran
 branch me tree jaisa structure hota hai
 
 naya branch command--> git branch new_branch
+
+git checkout -b <branch name>--> isse ek new_branch bhi ban jaayegi aur 
+    checkout ho jaayega
