@@ -18,3 +18,9 @@ stating area --adding karne per aati hai
 
 git checkout 09c83d8678765975e6e9a77329b440ad22b65870 is commit per pahuch dega
 git checkout master usi jagah wapas laa dega
+
+
+branch----> isme ek master branch hoti hai us master branch se jitni chaahe branch bana sakte hai
+branch me tree jaisa structure hota hai
+
+naya branch command--> git branch new_branch
