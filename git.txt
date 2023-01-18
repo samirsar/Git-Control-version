@@ -41,3 +41,9 @@ vim se bahar aane k liye esc -->:-->wq--->enter
 
 changes ko dekhne k liye cat git.txt
 
+
+
+note::----> master branch me kabhi changes mat karo
+
+
+//learning vscode git
