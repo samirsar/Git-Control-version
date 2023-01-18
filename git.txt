@@ -35,4 +35,9 @@ touch .gitignore
 
 ye vim git.txt file se edited hai
 
+vim chalaane k liye pahle i per click karo (insert)
+
 vim se bahar aane k liye esc -->:-->wq--->enter
+
+changes ko dekhne k liye cat git.txt
+
