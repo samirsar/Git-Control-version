@@ -3,8 +3,8 @@ git is basically version control system hai
 it is a ledger of save of history of file 
 command:-- git config --global user.name "Samir Kumar"
 command:-- git config --global user.email "samirsaraidangari@gmail.com"
-command:-- git config --global --edit
 
+command:-- git config --global --edit
 git init--> initialiazation of folder or repo
 git status--> telling the changes in repo
 git add--> file track ho jaati hai(green)(staging area)
@@ -32,3 +32,7 @@ if we want to merge two branch-->git merge samir/feature
 
 gitingore--> ham chahte kuchh file git track hi na kare to use gitignore me daal sakte hai
 touch .gitignore
+
+ye vim git.txt file se edited hai
+
+vim se bahar aane k liye esc -->:-->wq--->enter
