@@ -1,0 +1,2 @@
+git remote add (new_name(origin)) url 
+git push -u (new_name(origin)) branch_name
