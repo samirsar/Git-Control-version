@@ -47,3 +47,8 @@ note::----> master branch me kabhi changes mat karo
 
 
 //learning vscode git
+
+//learning branch
+
+git checkout -b branch1
+
