@@ -49,3 +49,5 @@ note::----> master branch me kabhi changes mat karo
 //learning vscode git
 
 git checkout -b branch2
+
+dekha kya hya merge karne per
